@@ -17,11 +17,12 @@ class Navbar extends component{
                             </a>
                         </li>
                    
-                        )
+                        );
                     })}
+                    <button>Sign-up</button>
                    </ul>
             </nav>
-        )
+        );
     }
 }
  
